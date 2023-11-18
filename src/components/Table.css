@@ -1,0 +1,10 @@
+.Top1{
+    max-height: 60vh;
+    background-color: blueviolet;
+    display: flex;
+   
+    flex-direction: column;
+    margin-top: 12px;
+    
+    overflow-y: scroll;
+}

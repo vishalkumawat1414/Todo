@@ -1,0 +1,55 @@
+.main1{
+   display: flex;
+   flex-direction: row;
+   height: 8vh;  
+   width: 100%;
+   background-color: beige;
+}
+.leftContainer{
+    background-color: rgb(220, 152, 62);
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.task{
+    width: 20%;
+    height: 60%;
+    background-color: aqua;
+    border: 1px solid black;
+}
+.description{
+     width: 70%;
+    height: 60%;
+    background-color: rgb(102, 247, 247);
+    border: 1px solid black;
+}
+.buttonBox{
+    width: 20%;
+    height: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.button{
+    width: 70px;
+    height: 30px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    border-radius: 30px;
+    box-shadow: 3px solid black;
+    color: white;
+}
+/* 
+
+
+.Table{
+    width: 90%;
+    height: 70%;
+    background-color: beige;
+    border: 1px solid black;
+} */

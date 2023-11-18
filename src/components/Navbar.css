@@ -1,0 +1,7 @@
+.Navbar{
+    background-color: rgb(201, 201, 29);
+    height: 5vh;
+    padding: 2px;
+    font-size: larger;
+    border: 2px solid gray;
+}

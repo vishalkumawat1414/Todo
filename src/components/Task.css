@@ -1,0 +1,72 @@
+.TopBox{
+    height: 30vh;
+     width: 98%;
+     border: 1px solid black;
+     background-color: aqua;
+     margin-top: 30px;
+     border-collapse: collapse;
+}
+
+.FlexBox{
+     height: 80px;
+     width: 100%;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+    
+}
+.Taskname{
+    height: 100%;
+    width: 25%;
+    background-color: burlywood;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.Descrip{
+    height: 100%;
+    width: 45%;
+    background-color: chartreuse;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.comButton{
+    height: 100%;
+    width: 15%;
+
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+
+    width: 70px;
+    height: 30px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    border-radius: 30px;
+    box-shadow: 3px solid black;
+    color: white;
+}
+
+.delButton{
+    height: 100%;
+     width: 15%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+    width: 70px;
+    height: 30px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    border-radius: 30px;
+    box-shadow: 3px solid black;
+    color: white;
+}
