@@ -14,13 +14,15 @@
     align-items: center;
 }
 .task{
+    padding: 0px 8px;
     width: 20%;
     height: 60%;
     background-color: aqua;
     border: 1px solid black;
 }
 .description{
-     width: 70%;
+    padding: 0px 8px;
+    width: 70%;
     height: 60%;
     background-color: rgb(102, 247, 247);
     border: 1px solid black;
@@ -43,6 +45,10 @@
     border-radius: 30px;
     box-shadow: 3px solid black;
     color: white;
+    
+}
+.button:hover{
+    background-color: rgba(165, 42, 42, 0.806);
 }
 /* 
 
